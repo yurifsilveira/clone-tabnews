@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Grande Vasco da Gama</h1>
+    return <h1>Ei amor, mande uma fotinha!</h1>
 }
 
 export default Home;
